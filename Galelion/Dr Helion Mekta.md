@@ -1,0 +1,2 @@
+Dr Helion Mekta was born the 15th Kefku 1282 to a High Elf father and Drow mother, Helion would display a high degree of intellect and would attend the [[Galelion Empire|Galelion University for sorcery and craftsmenship]] were he would earn a PhD in metallurgy and a masters in engineering. he went on to discover the element later known as [[Spitzer]] or element 92-A, discovered as a synthetic compound of the element known as [[Vaglemit]], a common substitute for iron. 
+#Galelion

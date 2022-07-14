@@ -1,0 +1,3 @@
+Gregory Versalio was born 22nd Rept 1378 to a human mother and half demon father, with demonic parentage, early childhood was rough for Gregory when it came socializing with other people, he turned to a life of science from an early age, he ended up studying at [[Galelion Empire#^2f1ee7|Galelion University for sorcery and craftsmenship]] but dropped out after a few years. Gregory ended up joining the [[Galelion Empire|army]] and became one of the many armorers that the [[Galelion Empire#^094b21|Galelion army]] was known for. After a few years of work he would go on to create the [[Spitzer Crouching Dragon]] and later on the [[Furter Device]].
+
+#Galelion

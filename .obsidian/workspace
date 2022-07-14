@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "6ba49e0eb88fe1c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e1af109c5092d2",
+        "type": "leaf",
+        "dimension": 24.495848161328592,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lebel/Lebel.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "8f8128cc0769788e"
+      },
+      {
+        "id": "351e33001b3fd135",
+        "type": "leaf",
+        "dimension": 24.495848161328592,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Galelion/Galelion Empire.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "af86ba6475834421",
+        "type": "split",
+        "dimension": 51.008303677342816,
+        "children": [
+          {
+            "id": "56bf1ed57f651343",
+            "type": "leaf",
+            "dimension": 47.91666666666667,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a433d6c824e7e081",
+            "type": "leaf",
+            "dimension": 52.08333333333334,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lebel/Lebel.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "8f8128cc0769788e"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cc309d1f4de5de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a86412da031b656",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca68618b2dddc87b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae4dea5d9d691b27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256
+  },
+  "right": {
+    "id": "c82e75efdfa3faff",
+    "type": "split",
+    "children": [
+      {
+        "id": "df59a738e0292a88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fb29464710202a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lebel/Lebel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "56bf1ed57f651343",
+  "lastOpenFiles": [
+    "Galelion/Furter Device.md",
+    "Galelion/Galelion Empire.md",
+    "Galelion/Dr Helion Mekta.md",
+    "Lebel/Lebel.md",
+    "Galelion/Vermont Hexiv.md",
+    "Galelion/Vaglemit.md",
+    "Galelion/Spitzer Crouching Dragon.md",
+    "Galelion/Spitzer.md",
+    "Galelion/Orzimandes Kraven.md",
+    "Galelion/la terreur de Galelion.md"
+  ]
+}
